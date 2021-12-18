@@ -1,0 +1,13 @@
+.bg-svg{
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+@media screen and (max-width: 576px) {
+  .bg-svg{
+      background-image: url(../images/pattern-background-mobile.svg);
+      background-repeat: no-repeat;
+  background-size: contain;
+  }
+
+}
