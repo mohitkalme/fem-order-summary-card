@@ -29,8 +29,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontend-mentor-order-summary-card](https://github.com/mohitkalme/frontend-mentor-order-summary-card)
+- Live Site URL: [frontend-mentor-order-summary-card](https://mohitkalme.github.io/frontend-mentor-order-summary-card/)
 
 ### Built with
 
@@ -43,9 +43,8 @@ Your users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [mohitkalme](https://www.instagram.com/mohitkalme21/?hl=en)
+- Twitter - [@Mohit_kalme](https://twitter.com/Mohit_kalme)
 
 ## Available Scripts
 
